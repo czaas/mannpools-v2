@@ -2,6 +2,6 @@ import React from 'react';
 import ReactDom from 'react-dom';
 
 import './css/main.scss';
-import { TestMount } from './test.js';
+import { App } from './app.js';
 
-ReactDom.render(<TestMount />, document.getElementById('app'));
+ReactDom.render(<App />, document.getElementById('app'));
