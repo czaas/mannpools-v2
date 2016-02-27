@@ -9,7 +9,7 @@ module.exports = {
 	output: {
 		path: __dirname + '/dist',
 		filename: 'bundle.js',
-		publicPath: '/dist/'
+		publicPath: '/dist'
 	},
 	plugins: [
 		new webpack.HotModuleReplacementPlugin() // Hot reloading for react components

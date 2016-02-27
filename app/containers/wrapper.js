@@ -6,7 +6,7 @@ export class Wrapper extends React.Component {
 	render() {
 		return (
 			<div>
-				<h1>Wrapper</h1>
+				<img src='/dist/images/logo.png' />
 				<Header />
 				{this.props.children}
 			</div>
