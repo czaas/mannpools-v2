@@ -2,7 +2,6 @@
 # Created by https://www.gitignore.io/api/windows,osx,dreamweaver,sublimetext
 
 ### Project Specific ###
-dist
 node_modules
 
 

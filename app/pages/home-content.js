@@ -5,8 +5,8 @@ export class HomeContent extends React.Component {
 		return (
 			<section id="homePage">
 				<div className="main">
-					<h1 className="important">Serving California's Central Coast</h1>
-					<img src="img/about.jpg" alt="Owner, Scott Mann, servicing a pool" />
+					<h1>Serving California's Central Coast</h1>
+					<img src="/dist/images/about.jpg" alt="Owner, Scott Mann, servicing a pool" />
 
 					<div className="about">
 						<p><span className="name">Mann Pools</span> is proud to offer California's Central Coast, professional pool maintenance, repairs, new installations, and management, at affordable rates. We serve the communities of San Luis Obispo, Los Osos, and, the Five Cities. Take the hassle out of pool ownership. Contact Mann Pools and spend more time enjoying your pool.</p>
